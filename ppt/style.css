@@ -1,0 +1,12 @@
+.slidev-layout p{
+  font-size:25px;
+}
+.slidev-layout h2{
+  font-size:35px;
+}
+.slidev-layout li{
+  font-size:25px;
+}
+#slide-container{
+  background:white !important;
+}
